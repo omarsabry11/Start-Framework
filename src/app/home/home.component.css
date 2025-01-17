@@ -1,0 +1,9 @@
+.bg-main
+{
+    background-color: var(--main-color);
+}
+
+.logo
+{
+    width: 15rem;
+}

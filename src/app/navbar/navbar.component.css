@@ -1,0 +1,8 @@
+.bg-main
+{
+    background-color: var(--main-color);
+}
+.bg-second
+{
+    background-color: var(--second-color);
+}
